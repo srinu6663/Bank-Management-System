@@ -1,4 +1,4 @@
-![Bank_Logo](https://github.com/user-attachments/assets/3de12ba6-e937-4a40-8a30-2b8b8cfda41c)**Bank Management System**
+<img src="![Bank_Logo](https://github.com/user-attachments/assets/3de12ba6-e937-4a40-8a30-2b8b8cfda41c)" alt="Description" width="300"/> **Bank Management System**
 
 A comprehensive Bank Management System built with Java Swing GUI that provides various banking operations with a user-friendly interface.
 
