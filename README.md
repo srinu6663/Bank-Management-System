@@ -38,7 +38,7 @@ A comprehensive Bank Management System built with Java Swing GUI that provides v
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/srinu6663/Bank-Management-System.git
    cd "Bank Management System"
    ```
 
