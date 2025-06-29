@@ -1,0 +1,34 @@
+use banksystem;
+
+select * from signup;
+CREATE TABLE signup (form_no VARCHAR(20),name VARCHAR(50),father_name VARCHAR(50),DOB DATE,gender VARCHAR(10),email VARCHAR(100),marital_status VARCHAR(15),address VARCHAR(255),city VARCHAR(50),pincode VARCHAR(10),state VARCHAR(50));
+create table signuptwo(form_no varchar(30), religion varchar(30), category varchar(30), income varchar(30), education varchar(30), occuptio varchar(30), pan varchar(30), aadhar varchar(30), seniorcitizen varchar(30), existing_account varchar(30));
+select * from signuptwo;
+select * from signup;
+create table signupthree(form_no varchar(30), account_Type varchar(30), card_number varchar(30), pin varchar(30), facility varchar(200));
+select * from signupthree;
+
+ALTER TABLE signupthree
+ADD secure_Q varchar(200);
+
+ALTER TABLE signupthree
+DROP COLUMN secure;
+
+create table login(form_no varchar(30), card_number varchar(50), pin varchar(30),username VARCHAR(50));
+select * from login;
+
+create table bank(pin varchar(30), date varchar(50), type varchar(30), amount varchar(30));
+select * from bank;
+
+CREATE TABLE loans (
+    loan_id INT PRIMARY KEY AUTO_INCREMENT,
+    pin VARCHAR(10),
+    loan_type VARCHAR(50),
+    amount DOUBLE,
+    tenure INT,
+    interest_rate DOUBLE,
+    emi DOUBLE,
+    status VARCHAR(20) DEFAULT 'Pending',
+    issued_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+select * from loans;
