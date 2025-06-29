@@ -94,7 +94,10 @@ Bank Management System/
 
 The application features a modern and intuitive interface with:
 - Splash screen with loading animation
+- ![Screenshot 2025-06-29 164820](https://github.com/user-attachments/assets/bb110802-9988-4d6d-b1f7-67b0bb2910dc)
 - Login/Registration forms
+- ![Screenshot 2025-06-29 164836](https://github.com/user-attachments/assets/9222d9af-f288-4def-bd8b-a73edf3d94a1)
+- ![image](https://github.com/user-attachments/assets/0818e2e0-f556-484d-a90c-d80a16ace17a)
 - Dashboard with quick access to all banking operations
 - ![image](https://github.com/user-attachments/assets/b5d2dfca-f2d8-4a56-8786-e339344303db)
 - Transaction forms with validation
