@@ -1,4 +1,3 @@
-![Screenshot 2025-02-11 222946](https://github.com/user-attachments/assets/295bc0cd-1cb4-40f0-977d-7c6a7e0f576c)
 # Bank Management System
 
 A comprehensive Bank Management System built with Java Swing GUI that provides various banking operations with a user-friendly interface.
@@ -102,6 +101,7 @@ The application features a modern and intuitive interface with:
   ![Screenshot 2025-02-11 222946](https://github.com/user-attachments/assets/395506b6-5b4b-4d81-ae97-8ae09cf5b37d)
 - **Transaction**
   ![Screenshot 2025-02-11 221818](https://github.com/user-attachments/assets/9661be69-b243-44bc-8982-c0a223fca84d)
+  ![Screenshot 2025-02-09 161644](https://github.com/user-attachments/assets/0ab80cb9-5335-4700-b825-e0c8b14eb9c6)
 - **PDF statement generation**
   ![image](https://github.com/user-attachments/assets/65a9d337-71f3-4c95-847a-dc891d38ed3d)
 
