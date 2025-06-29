@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/1d09dd78-ace2-4bef-af31-063e66038697)# Bank Management System
+![Screenshot 2025-02-11 222946](https://github.com/user-attachments/assets/295bc0cd-1cb4-40f0-977d-7c6a7e0f576c)
+# Bank Management System
 
 A comprehensive Bank Management System built with Java Swing GUI that provides various banking operations with a user-friendly interface.
 
@@ -93,15 +94,17 @@ Bank Management System/
 ## Screenshots
 
 The application features a modern and intuitive interface with:
-- Splash screen with loading animation
-- ![Screenshot 2025-06-29 164820](https://github.com/user-attachments/assets/bb110802-9988-4d6d-b1f7-67b0bb2910dc)
-- Login/Registration forms
-- ![Screenshot 2025-06-29 164836](https://github.com/user-attachments/assets/9222d9af-f288-4def-bd8b-a73edf3d94a1)
-- ![image](https://github.com/user-attachments/assets/0818e2e0-f556-484d-a90c-d80a16ace17a)
-- Dashboard with quick access to all banking operations
-- ![image](https://github.com/user-attachments/assets/b5d2dfca-f2d8-4a56-8786-e339344303db)
-- Transaction forms with validation
-- PDF statement generation
+- **Splash screen with loading animation**
+  ![Screenshot 2025-06-29 164820](https://github.com/user-attachments/assets/bb110802-9988-4d6d-b1f7-67b0bb2910dc)
+- **Login/Registration forms**
+  ![image](https://github.com/user-attachments/assets/0818e2e0-f556-484d-a90c-d80a16ace17a)
+- **Dashboard with quick access to all banking operations**
+  ![Screenshot 2025-02-11 222946](https://github.com/user-attachments/assets/395506b6-5b4b-4d81-ae97-8ae09cf5b37d)
+- **Transaction**
+  ![Screenshot 2025-02-11 221818](https://github.com/user-attachments/assets/9661be69-b243-44bc-8982-c0a223fca84d)
+- **PDF statement generation**
+  ![image](https://github.com/user-attachments/assets/65a9d337-71f3-4c95-847a-dc891d38ed3d)
+
 
 ## Security Features
 
